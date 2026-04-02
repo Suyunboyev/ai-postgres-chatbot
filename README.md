@@ -57,7 +57,7 @@ pip install -r requirements.txt
 * Copy `.env.example` to `.env`
 * Add your Groq API Key and PostgreSQL credentials
 
-5. Run the Application
+## 5. Run the Application
 # Terminal 1 - Backend:
 ```bash
 cd backend
