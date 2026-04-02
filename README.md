@@ -20,6 +20,7 @@ A smart AI-powered chatbot that can answer general questions and retrieve data f
 - **Environment Management**: python-dotenv
 
 ## 📁 Project Structure
+```
 ai-postgres-chatbot/
 ├── backend/
 │   ├── main.py                 # FastAPI app
@@ -34,7 +35,7 @@ ai-postgres-chatbot/
 ├── init_db.sql                 # Sample data + table creation
 ├── requirements.txt
 └── README.md
-
+```
 
 ## 🚀 How to Run the Project
 
