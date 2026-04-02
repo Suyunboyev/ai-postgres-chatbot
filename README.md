@@ -38,7 +38,7 @@ ai-postgres-chatbot/
 
 ## 🚀 How to Run the Project
 
-### 1. Clone the Repository
+## 1. Clone the Repository
 ```bash
 git clone https://github.com/Suyunboyev/ai-postgres-chatbot.git
 cd ai-postgres-chatbot
@@ -58,13 +58,13 @@ pip install -r requirements.txt
 * Add your Groq API Key and PostgreSQL credentials
 
 ## 5. Run the Application
-# Terminal 1 - Backend:
+### Terminal 1 - Backend:
 ```bash
 cd backend
 uvicorn main:app --reload --port 8000
 ```
 
-# Terminal 2 - Frontend:
+### Terminal 2 - Frontend:
 ```bash
 cd frontend
 streamlit run app.py
