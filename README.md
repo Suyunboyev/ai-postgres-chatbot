@@ -41,7 +41,7 @@ ai-postgres-chatbot/
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Suyunboyev/ai-postgres-chatbot.git
-cd ai-postgres-chatbot
+cd ai-postgres-chatbot```
 
 ## 2. Setup Database
 * Install PostgreSQL and pgAdmin
