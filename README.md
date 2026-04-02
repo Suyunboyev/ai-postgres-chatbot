@@ -41,8 +41,8 @@ ai-postgres-chatbot/
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Suyunboyev/ai-postgres-chatbot.git
-cd ai-postgres-chatbot```
-
+cd ai-postgres-chatbot
+```
 ## 2. Setup Database
 * Install PostgreSQL and pgAdmin
 * Create a database named `chatbot_db`
@@ -51,6 +51,7 @@ cd ai-postgres-chatbot```
 ## 3. Install Dependencies
 ```bash
 pip install -r requirements.txt
+```
 
 ## 4. Configure Environment
 * Copy `.env.example` to `.env`
@@ -61,8 +62,10 @@ pip install -r requirements.txt
 ```bash
 cd backend
 uvicorn main:app --reload --port 8000
+```
 
 # Terminal 2 - Frontend:
 ```bash
 cd frontend
 streamlit run app.py
+```
