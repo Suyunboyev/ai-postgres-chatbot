@@ -47,7 +47,7 @@ cd ai-postgres-chatbot
 ## 2. Setup Database
 * Install PostgreSQL and pgAdmin
 * Create a database named `chatbot_db`
-* Run `init_db.sql` script in pgAdmin
+* Run `init_db.sql` script in pgAdmin, `or you can create the tables yourself`
 
 ## 3. Install Dependencies
 ```bash
