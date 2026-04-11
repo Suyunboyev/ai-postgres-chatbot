@@ -2,7 +2,7 @@
 
 A smart AI-powered chatbot that can answer general questions and retrieve data from a PostgreSQL database using natural language. Built with FastAPI, Groq LLM, and Streamlit.
 
-## ✨ Features
+## Features
 
 - **Natural Language to SQL**: Converts user questions into SQL queries automatically
 - **Multi-table Support**: Works with 4 related tables (`products`, `customers`, `orders`, `order_items`)
@@ -11,7 +11,7 @@ A smart AI-powered chatbot that can answer general questions and retrieve data f
 - **Detailed Logging**: Shows question, generated SQL, raw database response, and timing in terminal
 - **Modern Tech Stack**: FastAPI backend + Streamlit frontend
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Backend**: Python, FastAPI, Groq (Llama 3.3)
 - **Database**: PostgreSQL
@@ -37,7 +37,7 @@ ai-postgres-chatbot/
 └── README.md
 ```
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 ## 1. Clone the Repository
 ```bash
